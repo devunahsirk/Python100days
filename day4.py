@@ -1,6 +1,6 @@
 print("Welcome to the Rock, Paper, Scissors Game!")
 # User input
-user_choice = int(input("What do you choose? Type 0 for Rock, 1 for Paper or 2\n"))
+user_choice = int(input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for scissor\n"))
 print("You choose")
 if user_choice==0:
   print('''
